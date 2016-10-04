@@ -1,0 +1,22 @@
+FUEL                                4085
+DISTANCE                            30.4 km
+
+PROGRESSION
+  Zones unclocked                   2/19
+  Career Races finished             2/72
+  Career Races with gold awarded    2/72
+  Career Stars awarded              6/216
+  Challenges cleared                1/190
+  Vista points visited              0/95
+  Driver gear pieced owned          5/78
+  Doppler Trucks found              2/57
+  Mavericks found                   0/15
+
+VEHICLES
+  Vehicles owned                    3/74
+  Liveries owned                    3/222
+
+RECORDS
+  Peak speed                        184 km/h
+  Longest jump                      68 m
+  Max time spent in air             2 s
