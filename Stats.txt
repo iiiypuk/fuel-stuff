@@ -1,20 +1,20 @@
-FUEL                                25285
-DISTANCE                            30.4 km
+FUEL                                23785
+DISTANCE                            227.2 km
 
 PROGRESSION
-  Zones unclocked                   8/19
-  Career Races finished             12/72
-  Career Races with gold awarded    12/72
-  Career Stars awarded              36/216
+  Zones unclocked                   9/19
+  Career Races finished             16/72
+  Career Races with gold awarded    15/72
+  Career Stars awarded              45/216
   Challenges cleared                1/190
   Vista points visited              0/95
-  Driver gear pieced owned          15/78
-  Doppler Trucks found              8/57
+  Driver gear pieced owned          18/78
+  Doppler Trucks found              11/57
   Mavericks found                   3/15
 
 VEHICLES
-  Vehicles owned                    11/74
-  Liveries owned                    13/222
+  Vehicles owned                    12/74
+  Liveries owned                    14/222
 
 RECORDS
   Peak speed                        207 km/h
@@ -22,5 +22,5 @@ RECORDS
   Max time spent in air             2 s
 
 TRIVIAL
-  Number of times heliports used    10
+  Number of times heliports used    12
   Fuel drums found                  27
