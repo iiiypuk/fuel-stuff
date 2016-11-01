@@ -1,26 +1,26 @@
-FUEL                                146714
-DISTANCE                            1112 km
+FUEL                                440725
+DISTANCE                            1518,4 km
 
 PROGRESSION
-  Zones unclocked                   14/19
-  Career Races finished             39/72
-  Career Races with gold awarded    39/72
-  Career Stars awarded              117/216
-  Challenges cleared                46/190
+  Zones unclocked                   19/19
+  Career Races finished             60/72
+  Career Races with gold awarded    60/72
+  Career Stars awarded              180/216
+  Challenges cleared                50/190
   Vista points visited              1/95
-  Driver gear pieced owned          42/78
-  Doppler Trucks found              30/57
-  Mavericks found                   9/15
+  Driver gear pieced owned          63/78
+  Doppler Trucks found              48/57
+  Mavericks found                   12/15
 
 VEHICLES
-  Vehicles owned                    42/74
-  Liveries owned                    53/222
+  Vehicles owned                    51/74
+  Liveries owned                    64/222
 
 RECORDS
-  Peak speed                        214 km/h
-  Longest jump                      100 m
-  Max time spent in air             4 s
+  Peak speed                        214,2 km/h
+  Longest jump                      100,6 m
+  Max time spent in air             4,6 s
 
 TRIVIAL
   Number of times heliports used    39
-  Fuel drums found                  183
+  Fuel drums found                  256

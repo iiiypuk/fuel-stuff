@@ -1,5 +1,6 @@
-*.exe
+build-creator*
 *.zip
 *.obj
 *.dll
 *.ini
+*.sav
