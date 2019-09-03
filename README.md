@@ -1,4 +1,4 @@
-![FUEL](https://raw.githubusercontent.com/iiiypuk/fuel-stuff/master/.fuel.png)
+![FUEL](https://raw.githubusercontent.com/iiiypuk/fuel-stuff/master/.logo.svg)
 
 **TODO**
 - [x] Complete game (Career)  
